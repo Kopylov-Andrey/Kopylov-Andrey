@@ -34,10 +34,8 @@
 
 `Python` · `Qwen2.5-VL` · `llama.cpp` · `CUDA` · `FastAPI` · `Docker`
 
-### Дипломная работа
+### [spatiotemporal-transfer-learning](https://github.com/Kopylov-Andrey/spatiotemporal-transfer-learning)
 
-Прогнозирование стоимости недвижимости с использованием табличных моделей машинного обучения и графовых нейронных сетей.
+Исследование архитектур обработки данных для прогнозирования в условиях пространственно-временного переноса моделей. В работе сравниваются табличные модели и графовые нейронные сети на различных сценариях переноса.
 
-`Python` · `Gradient Boosting` · `GNN` · `GAT` · `ETL` · `EDA`
-
-_Ссылка на репозиторий будет добавлена позже._
+`Python` · `scikit-learn` · `PyTorch` · `PyTorch Geometric` · `Gradient Boosting` · `GCN` · `GAT`
